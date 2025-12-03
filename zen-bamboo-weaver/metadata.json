@@ -1,0 +1,7 @@
+{
+  "name": "Zen Bamboo Weaver",
+  "description": "An interactive digital bamboo weaving art generator powered by motion capture and Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
